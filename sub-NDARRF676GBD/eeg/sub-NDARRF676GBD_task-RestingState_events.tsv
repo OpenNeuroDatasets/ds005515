@@ -1,0 +1,37 @@
+onset	duration	sample	value	event_code
+0	n/a	0	break cnt	break cnt
+2.46	n/a	1230	resting_start	90
+42.802	n/a	21401	instructed_toOpenEyes	20
+62.804	n/a	31402	instructed_toCloseEyes	30
+102.794	n/a	51397	instructed_toOpenEyes	20
+122.794	n/a	61397	instructed_toCloseEyes	30
+162.796	n/a	81398	instructed_toOpenEyes	20
+182.796	n/a	91398	instructed_toCloseEyes	30
+222.798	n/a	111399	instructed_toOpenEyes	20
+242.798	n/a	121399	instructed_toCloseEyes	30
+282.8	n/a	141400	instructed_toOpenEyes	20
+302.8	n/a	151400	instructed_toCloseEyes	30
+342.802	n/a	171401	instructed_toOpenEyes	20
+347.338	n/a	173669	break cnt	break cnt
+379.196	n/a	189598	seqLearning_start	91
+385.41	n/a	192705	learningBlock_1	31
+385.448	n/a	192724	dot_no1_ON	11
+386.036	n/a	193018	dot_no1_OFF	21
+387.356	n/a	193678	dot_no6_ON	16
+387.936	n/a	193968	dot_no6_OFF	26
+389.256	n/a	194628	dot_no4_ON	14
+389.846	n/a	194923	dot_no4_OFF	24
+391.164	n/a	195582	dot_no2_ON	12
+391.746	n/a	195873	dot_no2_OFF	22
+393.066	n/a	196533	dot_no7_ON	17
+393.646	n/a	196823	dot_no7_OFF	27
+394.966	n/a	197483	dot_no3_ON	13
+395.556	n/a	197778	dot_no3_OFF	23
+396.876	n/a	198438	dot_no8_ON	18
+397.456	n/a	198728	dot_no8_OFF	28
+398.776	n/a	199388	dot_no5_ON	15
+399.366	n/a	199683	dot_no5_OFF	25
+400.686	n/a	200343	dot_no2_ON	12
+401.266	n/a	200633	dot_no2_OFF	22
+402.586	n/a	201293	dot_no7_ON	17
+403.166	n/a	201583	dot_no7_OFF	27
