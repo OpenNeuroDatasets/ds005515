@@ -3,3 +3,12 @@ onset	duration	sample	value	event_code
 1.024	n/a	512	video_start	83
 171.576	n/a	85788	video_stop	103
 172.108	n/a	86054	break cnt	break cnt
+244.756	n/a	122378	video_stop	102
+245.292	n/a	122646	break cnt	break cnt
+245.604	n/a	122802	stim_ON	8
+248.512	n/a	124256	fixpoint_ON	4
+249.024	n/a	124512	stim_ON	8
+251.932	n/a	125966	fixpoint_ON	4
+252.444	n/a	126222	stim_ON	8
+258.516	n/a	129258	break cnt	break cnt
+457.384	n/a	228692	video_stop	104
