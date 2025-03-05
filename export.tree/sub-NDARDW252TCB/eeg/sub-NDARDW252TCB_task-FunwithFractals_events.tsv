@@ -1,0 +1,9 @@
+onset	duration	sample	value	event_code
+0	n/a	0	9999	9999
+9.96	n/a	4980	video_start	82
+172.952	n/a	86476	video_stop	102
+173.488	n/a	86744	break cnt	break cnt
+179.224	n/a	89612	contrastChangeB2_start	95
+187.16	n/a	93580	IEND	IEND
+191.26	n/a	95630	IBEG	IBEG
+207.208	n/a	103604	IEND	IEND

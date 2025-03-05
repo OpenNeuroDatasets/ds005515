@@ -1,0 +1,26 @@
+onset	duration	sample	value	event_code
+0	n/a	0	resting_start	90
+547.136	n/a	273568	resting_start	90
+598.128	n/a	299064	instructed_toOpenEyes	20
+618.128	n/a	309064	instructed_toCloseEyes	30
+658.118	n/a	329059	instructed_toOpenEyes	20
+678.118	n/a	339059	instructed_toCloseEyes	30
+718.12	n/a	359060	instructed_toOpenEyes	20
+738.12	n/a	369060	instructed_toCloseEyes	30
+778.122	n/a	389061	instructed_toOpenEyes	20
+798.122	n/a	399061	instructed_toCloseEyes	30
+838.124	n/a	419062	instructed_toOpenEyes	20
+858.124	n/a	429062	instructed_toCloseEyes	30
+898.126	n/a	449063	instructed_toOpenEyes	20
+902.656	n/a	451328	break cnt	break cnt
+936.554	n/a	468277	9999	9999
+937.876	n/a	468938	video_start	83
+1013.376	n/a	506688	9999	9999
+1015.036	n/a	507518	video_start	83
+1185.58	n/a	592790	video_stop	103
+1186.29	n/a	593145	break cnt	break cnt
+1186.302	n/a	593151	9999	9999
+1187.472	n/a	593736	video_start	82
+1350.468	n/a	675234	video_stop	102
+1351.038	n/a	675519	break cnt	break cnt
+1351.048	n/a	675524	9999	9999
