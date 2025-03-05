@@ -1,7 +1,0 @@
-onset	duration	sample	value	event_code
-0	n/a	0	9999	9999
-1.78	n/a	890	video_start	82
-111.716	n/a	55858	IBEG	IBEG
-139.828	n/a	69914	IEND	IEND
-164.764	n/a	82382	video_stop	102
-165.391	n/a	82695.5	boundary	boundary
